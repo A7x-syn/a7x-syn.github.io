@@ -9,7 +9,7 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'https://github.com/A7x-synm'
+domain_name: 'https://github.com/A7x-syn'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
