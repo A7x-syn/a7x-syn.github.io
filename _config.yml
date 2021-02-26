@@ -15,7 +15,7 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'hhttps://a7x-syn.github.io/'
+url:            'https://a7x-syn.github.io/'
 author:         'DNA'
 authorTwitter:  '1h_03'
 
